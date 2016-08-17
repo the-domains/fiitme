@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FiitMe]]></title>
+        <description><![CDATA[FiitMe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:01:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f33a0ae2-383f-4b88-b4f1-692e5131d384.jpg">]]></description>
+            <link>undefinedfiitme-corporate-events/index.html</link>
+            <guid isPermaLink="false">ff84c984-7311-43f3-99be-49b12c6f1d6a</guid>
+            <pubDate>Wed, 17 Aug 2016 15:01:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
